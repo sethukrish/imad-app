@@ -20,3 +20,16 @@ body {
     height: 200px;
 }
 
+ .container
+                {
+                    max-width: 800px;
+                    margin: 0 meta;
+                    color: black;
+                    font-famil:arial;
+                    padding-top:50px;
+                    padding-left:60px;
+                    padding-right:50px;
+                    padding-bottom:60px;
+                    
+                }
+
